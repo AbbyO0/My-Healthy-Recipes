@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+<!-
 AbbyO0/AbbyO0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ## My Healthy Recipe 
@@ -26,4 +26,4 @@ I created this project to help me and you enjoy food better while living a vibra
 - [Cuisine Inspirations](./categories/cuisine-inspirations)
 **
 ## Screenshot
-![screenshot][desktop/screenshot.jpg]
+![screenshotimg][images/screenshot.jpg]
