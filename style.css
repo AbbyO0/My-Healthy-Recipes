@@ -1,0 +1,79 @@
+/* Reset some default styles to provide a consistent baseline */
+body, h1, h2, h3, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #48a147;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+section.recipe {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.recipe h2 {
+    font-size: 24px;
+}
+
+.recipe img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.recipe h3 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.recipe ul, .recipe ol {
+    margin: 10px 0;
+}
+
+.recipe ul li, .recipe ol li {
+    margin: 5px 0;
+}
+
+footer {
+    background-color: #48a147;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
